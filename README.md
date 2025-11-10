@@ -2,7 +2,7 @@
 
 Basado en el trabajo original de [javyyk](https://github.com/javyyk/social)
 
-
+Estoy utilizando la IA para hacer la web, ya que estoy aprendiendo.
 ## ¿Qué es Forti?
 
 **Forti** (xyz) es un proyecto red social de *código abierto*. Tomando como partida el código de Javvyk y la comunidad de X construida por el creador de la idea original de Forti.  
