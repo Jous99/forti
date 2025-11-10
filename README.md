@@ -5,23 +5,20 @@ Basado en el trabajo original de [javyyk](https://github.com/javyyk/social)
 
 ## ¿Qué es Forti?
 
-**Forti** (xyz) es un proyecto red social de *código abierto*. Tomando como partida el código de Javvyk y la comunidad de X construida por el creador de la idea original de Forti.  
+**Forti** (xyz) es un proyecto red social de *código abierto*. Tomando como partida el código de Javvyk y Cristian Radu y la comunidad de X construida por el creador de la idea original.
 El código en el que se basa tiene más de **12 años**, por lo que inicialmente me estoy centrando en:
 
 - Corregir fallos de seguridad  
 - Actualizar funciones obsoletas  
 - Modernizar los estándares de desarrollo  
 
-> ⚠️ Los dominios asociados anteriormente a Forti no han sido cedidos por su anterior propietario, por lo que el unico dominio real para este proyecto por el momento es [Forti.xyz](https://Forti.xyz)
+> ⚠️ Actualmente no hay dominios para Forti
 
-> ⚠️ Cualquier otro dominio "Forti" no está relacionado con el proyecto actual, ¡cuida tus datos!
 
 
 ## ¿Quién es Forti?
 
-Forti ha sido creado por **Cristian Radu** (*thelittlemander*), actualmente único desarrollador. Puedes encontrarme en:
-
-- [X (Twitter)](https://x.com/thelittlemander)
+Forti es un fork directo de nuenti https://github.com/nuenti/nuenti Si quieres mejores resultados puedes ir alli.
 
 
 ## ⚠️ Notas importantes
@@ -35,8 +32,7 @@ Estoy centrando los esfuerzos en localizar y parchear todas las funciones obsole
 
 ## ¿Puedo colaborar?
 
-¡Absolutamente!  
-Si sabes de **PHP**, **JavaScript**, **diseño o maquetación web**, o crees que puedes aportar algo al proyecto, [enviame un correo](mailto:colaboracion@Forti.xyz).
+
 
 
 
